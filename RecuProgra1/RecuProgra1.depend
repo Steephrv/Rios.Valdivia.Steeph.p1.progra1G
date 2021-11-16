@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637023762 source:c:\users\lenovo\onedrive\escritorio\recuprogra1\recuprogra1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
